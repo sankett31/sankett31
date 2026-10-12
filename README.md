@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Sankett! 👋
 
-<!--
-**sankett31/sankett31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Learning Python • 🎮 Gaming fan • 🚀 Future game maker
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m just getting started, learning Python, and exploring how to turn ideas into games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 My next quests
+
+- Learn Python one step at a time
+- Build my first game
+- Share my projects here as I go
+
+## 🕹️ Current status
+
+`Loading skills... ▰▰▱▱▱`
+
+Thanks for visiting—stay tuned for my first project!
