@@ -13,7 +13,7 @@
 
 ## 🌟 About Me
 
-- 🎓 B.Teach CSE Student**
+- 🎓 **B.Teach CSE Student**
 - 🐍 Learning Python and building my programming skills
 - 🎮 Interested in games, game design, and how things work behind the screen
 - 🚀 Working toward creating my own games
