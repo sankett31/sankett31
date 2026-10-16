@@ -2,7 +2,6 @@
 
 # 👋 Hi, I'm Sanket
 
-### 🎓 B.Tech CSE Student at Sandip University
 ### 🐍 Learning Python · 🎮 Gamer · 🚀 Future Game Developer
 
 *Turning curiosity into code, and ideas into games—one level at a time.*
