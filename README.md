@@ -7,9 +7,16 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sankett31&style=for-the-badge&color=46c9a8" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-Game%20Development-7c3aed?style=for-the-badge" alt="Current focus: game development" />
   <img src="https://img.shields.io/badge/Learning-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Learning Python" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sankett31/sankett31/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sankett31/sankett31/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/sankett31/sankett31/output/github-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
+  </picture>
 </p>
 
 ---
@@ -47,12 +54,6 @@ My focus right now is learning the fundamentals, practicing consistently, and ma
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sankett31&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-## 🐍 Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sankett31/sankett31/output/github-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
 
 ## 🔗 Find Me
