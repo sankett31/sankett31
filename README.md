@@ -1,10 +1,3 @@
-Ye issue **GitHub Readme Stats API ki rate-limiting** ki wajah se aa raha hai (jab server ke personal access tokens ki limit khatam ho jati hai).
-
-Is problem ko permanent solve karne ke liye alternative active server aur reliable badges services ka setup best hai.
-
-Niche poora final working code hai. Purane code ko completely delete karke ise paste kar lein:
-
-```markdown
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3776AB&center=true&vcenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Sanket!;%F0%9F%90%8D+Learning+Python;%F0%9F%8E%AE+Aspiring+Game+Developer;%F0%9F%9A%80+Building+Cool+Projects" alt="Typing SVG" />
 </h1>
@@ -57,8 +50,8 @@ Niche poora final working code hai. Purane code ko completely delete karke ise p
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sanket.vercel.app/api?username=sankett31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sanket's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats-sanket.vercel.app/api/top-langs/?username=sankett31&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sankett31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sanket's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sankett31&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
 </p>
 
 <p align="center">
@@ -88,5 +81,3 @@ Niche poora final working code hai. Purane code ko completely delete karke ise p
 </p>
 
 <p align="center"><sub>CREATING WHAT'S NEXT · ONE LINE OF CODE AT A TIME</sub></p>
-
-```
