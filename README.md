@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vcenter=true&width=500&lines=👋+Hi,+I'm+Sanket!;🐍+Learning+Python;🎮+Aspiring+Game+Developer;🚀+Building+Cool+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3776AB&center=true&vcenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Sanket!;%F0%9F%90%8D+Learning+Python;%F0%9F%8E%AE+Aspiring+Game+Developer;%F0%9F%9A%80+Building+Cool+Projects" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -72,25 +72,11 @@
 
 ---
 
-## ⚡ Daily Developer Quote
-
-<p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight" alt="Daily Quote" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/sankett31" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
