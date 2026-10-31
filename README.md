@@ -50,8 +50,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sankett31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sanket's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankett31&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sankett31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sanket's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sankett31&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
 </p>
 
 <p align="center">
